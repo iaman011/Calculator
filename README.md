@@ -1,4 +1,4 @@
-Overview
+Overview:
 This is a simple calculator application that allows users to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division. 
 The application is built using HTML, CSS & JavaScript, and is designed to be user-friendly and efficient.
 
