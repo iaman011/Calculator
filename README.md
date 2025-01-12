@@ -1,10 +1,13 @@
-Overview:
-This is a simple calculator application that allows users to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division. 
-The application is built using HTML, CSS & JavaScript, and is designed to be user-friendly and efficient.
+Simple Calculator 
 
-Features:
-Addition: Adds two numbers.
-Subtraction: Subtracts one number from another.
-Multiplication: Multiplies two numbers.
-Division: Divides one number by another.
-Error Handling: Provides error messages for invalid inputs
+This repository contains a simple calculator web application built using HTML, CSS, and JavaScript. The application provides basic calculator functionalities such as addition, subtraction, multiplication, and division, along with options to clear input (AC) and delete the last character (DEL).
+
+Features
+
+Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
+
+Clear All (AC): Clear the entire input field.
+
+Delete (DEL): Remove the last character from the input.
+
+Interactive Buttons: All buttons are clickable and dynamically update the display.
